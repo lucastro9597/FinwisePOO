@@ -1,2 +1,0 @@
-# FinWise
-Proyecto POO
